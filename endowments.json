@@ -1,208 +1,436 @@
 [
     {
-        "name": "Harvard University Endowment",
-        "website_link": "https://www.harvard.edu/",
-        "endowment_website_link": "https://hmc.harvard.edu/",
-        "investment_report_link": "https://finance.harvard.edu/files/fad/files/fy23_harvard_financial_report.pdf"
+      "name": "Harvard University Endowment",
+      "website_link": "https://www.harvard.edu/",
+      "endowment_website_link": "https://hmc.harvard.edu/",
+      "investment_report_link": "https://finance.harvard.edu/files/fad/files/fy23_harvard_financial_report.pdf",
+      "type": "EDUCATIONAL_INSTITUTION"
     },
     {
-        "name": "Yale University Investments Office",
-        "website_link": "https://www.yale.edu/",
-        "endowment_website_link": "https://investments.yale.edu/",
-        "investment_report_link": "https://investments.yale.edu/wp-content/uploads/sites/3/2023/10/Yale-Endowment-2023_10.25.23-FINAL.pdf"
+      "name": "Yale University Investments Office",
+      "website_link": "https://www.yale.edu/",
+      "endowment_website_link": "https://investments.yale.edu/",
+      "investment_report_link": "https://investments.yale.edu/wp-content/uploads/sites/3/2023/10/Yale-Endowment-2023_10.25.23-FINAL.pdf",
+      "type": "EDUCATIONAL_INSTITUTION"
     },
     {
-        "name": "Stanford University Endowment",
-        "website_link": "https://www.stanford.edu/",
-        "endowment_website_link": "https://www.smc.stanford.edu/",
-        "investment_report_link": "https://www.smc.stanford.edu/sites/g/files/sbiybj19726/files/media/file/smc_report.pdf"
+      "name": "Stanford University Endowment",
+      "website_link": "https://www.stanford.edu/",
+      "endowment_website_link": "https://www.smc.stanford.edu/",
+      "investment_report_link": "https://www.smc.stanford.edu/sites/g/files/sbiybj19726/files/media/file/smc_report.pdf",
+      "type": "EDUCATIONAL_INSTITUTION"
     },
     {
-        "name": "Princeton University Investment Company (PRINCO)",
-        "website_link": "https://www.princeton.edu/",
-        "endowment_website_link": "https://princo.princeton.edu/",
-        "investment_report_link": "https://princo.princeton.edu/sites/princo/files/2024-01/overview_of_princeton_universitys_endowment_2023.pdf"
+      "name": "Princeton University Investment Company (PRINCO)",
+      "website_link": "https://www.princeton.edu/",
+      "endowment_website_link": "https://princo.princeton.edu/",
+      "investment_report_link": "https://princo.princeton.edu/sites/princo/files/2024-01/overview_of_princeton_universitys_endowment_2023.pdf",
+      "type": "EDUCATIONAL_INSTITUTION"
     },
     {
-        "name": "MIT Investment Management Company (MITIMCo)",
-        "website_link": "https://www.mit.edu/",
-        "endowment_website_link": "https://mitimco.org/",
-        "investment_report_link": "https://mitimco.org/wp-content/uploads/2023/11/MIT-Endowment-Performance-Press-Release-FY23.pdf"
+      "name": "MIT Investment Management Company (MITIMCo)",
+      "website_link": "https://www.mit.edu/",
+      "endowment_website_link": "https://mitimco.org/",
+      "investment_report_link": "https://mitimco.org/wp-content/uploads/2023/11/MIT-Endowment-Performance-Press-Release-FY23.pdf",
+      "type": "EDUCATIONAL_INSTITUTION"
     },
     {
-        "name": "University of Texas Investment Management Company (UTIMCO)",
-        "website_link": "https://www.utsystem.edu/",
-        "endowment_website_link": "https://www.utimco.org/",
-        "investment_report_link": "https://www.utimco.org/media/3310/download"
+      "name": "University of Texas Investment Management Company (UTIMCO)",
+      "website_link": "https://www.utsystem.edu/",
+      "endowment_website_link": "https://www.utimco.org/",
+      "investment_report_link": "https://www.utimco.org/media/3310/download",
+      "type": "EDUCATIONAL_INSTITUTION"
     },
     {
-        "name": "University of Michigan Endowment",
-        "website_link": "https://www.umich.edu/",
-        "endowment_website_link": "https://www.finance.umich.edu/investments",
-        "investment_report_link": "https://record.umich.edu/wp-content/uploads/2023/10/101923-x-2.pdf"
+      "name": "University of Michigan Endowment",
+      "website_link": "https://www.umich.edu/",
+      "endowment_website_link": "https://www.finance.umich.edu/investments",
+      "investment_report_link": "https://record.umich.edu/wp-content/uploads/2023/10/101923-x-2.pdf",
+      "type": "EDUCATIONAL_INSTITUTION"
     },
     {
-        "name": "University of Pennsylvania Office of Investments",
-        "website_link": "https://www.upenn.edu/",
-        "endowment_website_link": "https://investments.upenn.edu/",
-        "investment_report_link": "https://investments.upenn.edu/wp-content/uploads/2023-Endowment-Report.pdf"
+      "name": "University of Pennsylvania Office of Investments",
+      "website_link": "https://www.upenn.edu/",
+      "endowment_website_link": "https://investments.upenn.edu/",
+      "investment_report_link": "https://investments.upenn.edu/wp-content/uploads/2023-Endowment-Report.pdf",
+      "type": "EDUCATIONAL_INSTITUTION"
     },
     {
-        "name": "Northwestern University Endowment",
-        "website_link": "https://www.northwestern.edu/",
-        "endowment_website_link": "",
-        "investment_report_link": "https://www.northwestern.edu/financial-operations/docs/annual-reports/fy23-annual-report.pdf"
+      "name": "Northwestern University Endowment",
+      "website_link": "https://www.northwestern.edu/",
+      "endowment_website_link": "",
+      "investment_report_link": "https://www.northwestern.edu/financial-operations/docs/annual-reports/fy23-annual-report.pdf",
+      "type": "EDUCATIONAL_INSTITUTION"
     },
     {
-        "name": "Columbia University Investment Management Company",
-        "website_link": "https://www.columbia.edu/",
-        "endowment_website_link": "https://www.imanage.columbia.edu/",
-        "investment_report_link": "https://www.imanage.columbia.edu/sites/default/files/content/Annual%20Reports/IMC%20Annual%20Report%202023%20Final%20Version.pdf"
-    },
-        {
-        "name": "Duke University Endowment (DUMAC)",
-        "website_link": "https://www.duke.edu/",
-        "endowment_website_link": "https://finance.duke.edu/investment/",
-        "investment_report_link": "https://today.duke.edu/2023/10/duke-universitys-endowment-returns-negative-10-percent-fiscal-year-2023"
-        },
-    {
-        "name": "University of California Endowment",
-        "website_link": "https://www.universityofcalifornia.edu/",
-        "endowment_website_link": "https://www.ucop.edu/investment-office/index.html",
-        "investment_report_link": "https://regents.universityofcalifornia.edu/regmeet/sept23/fin.pdf"
+      "name": "Columbia University Investment Management Company",
+      "website_link": "https://www.columbia.edu/",
+      "endowment_website_link": "https://www.imanage.columbia.edu/",
+      "investment_report_link": "https://www.imanage.columbia.edu/sites/default/files/content/Annual%20Reports/IMC%20Annual%20Report%202023%20Final%20Version.pdf",
+      "type": "EDUCATIONAL_INSTITUTION"
     },
     {
-        "name": "University of Cambridge Endowment Fund",
-        "website_link": "https://www.cam.ac.uk/",
-        "endowment_website_link": "https://www.investmentoffice.admin.cam.ac.uk/",
-        "investment_report_link": "https://www.investmentoffice.admin.cam.ac.uk/files/cuef_report_accounts_2023_websitepdf"
-     },
-	{
-        "name": "University of Oxford Endowment",
-        "website_link": "https://www.ox.ac.uk/",
-        "endowment_website_link": "https://www.ouem.co.uk/",
-        "investment_report_link": "https://www.ouem.co.uk/wp-content/uploads/2023/12/OUem-Annual-Report-2023_Web-version.pdf"
+      "name": "Duke University Endowment (DUMAC)",
+      "website_link": "https://www.duke.edu/",
+      "endowment_website_link": "https://finance.duke.edu/investment/",
+      "investment_report_link": "https://today.duke.edu/2023/10/duke-universitys-endowment-returns-negative-10-percent-fiscal-year-2023",
+      "type": "EDUCATIONAL_INSTITUTION"
     },
     {
-        "name": "Washington University in St. Louis Endowment",
-        "website_link": "https://wustl.edu/",
-        "endowment_website_link": "https://wuinvestments.wustl.edu/",
-        "investment_report_link": "https://wuinvestments.wustl.edu/wp-content/uploads/2023/10/Endowment-Performance-Overview-9.30.23.pdf"
+      "name": "University of California Endowment",
+      "website_link": "https://www.universityofcalifornia.edu/",
+      "endowment_website_link": "https://www.ucop.edu/investment-office/index.html",
+      "investment_report_link": "https://regents.universityofcalifornia.edu/regmeet/sept23/fin.pdf",
+      "type": "EDUCATIONAL_INSTITUTION"
     },
     {
-        "name": "University of Notre Dame Endowment",
-        "website_link": "https://www.nd.edu/",
-        "endowment_website_link": "https://investmentoffice.nd.edu/",
-        "investment_report_link": "https://investmentoffice.nd.edu/assets/528372/2023_annual_report_final.pdf"
+      "name": "University of Cambridge Endowment Fund",
+      "website_link": "https://www.cam.ac.uk/",
+      "endowment_website_link": "https://www.investmentoffice.admin.cam.ac.uk/",
+      "investment_report_link": "https://www.investmentoffice.admin.cam.ac.uk/files/cuef_report_accounts_2023_websitepdf",
+      "type": "EDUCATIONAL_INSTITUTION"
     },
     {
-        "name": "Vanderbilt University Endowment",
-        "website_link": "https://www.vanderbilt.edu/",
-        "endowment_website_link": "",
-        "investment_report_link": "https://www.vanderbilt.edu/reports/annual-reports/2023-financial-report/"
-    },
-     {
-        "name": "University of Chicago Endowment",
-        "website_link": "https://www.uchicago.edu/",
-       "endowment_website_link": "",
-        "investment_report_link": "https://finserv.uchicago.edu/reporting/annualreport/2023/index.shtml#nav-endowment"
+      "name": "University of Oxford Endowment",
+      "website_link": "https://www.ox.ac.uk/",
+      "endowment_website_link": "https://www.ouem.co.uk/",
+      "investment_report_link": "https://www.ouem.co.uk/wp-content/uploads/2023/12/OUem-Annual-Report-2023_Web-version.pdf",
+      "type": "EDUCATIONAL_INSTITUTION"
     },
     {
-        "name": "Cornell University Endowment",
-        "website_link": "https://www.cornell.edu/",
-        "endowment_website_link": "https://www.dfa.cornell.edu/treasurer/investments",
-        "investment_report_link": "https://www.dfa.cornell.edu/sites/default/files/vol2_2023.pdf"
+      "name": "Washington University in St. Louis Endowment",
+      "website_link": "https://wustl.edu/",
+      "endowment_website_link": "https://wuinvestments.wustl.edu/",
+      "investment_report_link": "https://wuinvestments.wustl.edu/wp-content/uploads/2023/10/Endowment-Performance-Overview-9.30.23.pdf",
+      "type": "EDUCATIONAL_INSTITUTION"
     },
     {
-        "name": "Johns Hopkins University Endowment",
-        "website_link": "https://www.jhu.edu/",
-        "endowment_website_link": "",
-        "investment_report_link": "https://ar.jhu.edu/financials/#endow"
+      "name": "University of Notre Dame Endowment",
+      "website_link": "https://www.nd.edu/",
+      "endowment_website_link": "https://investmentoffice.nd.edu/",
+      "investment_report_link": "https://investmentoffice.nd.edu/assets/528372/2023_annual_report_final.pdf",
+      "type": "EDUCATIONAL_INSTITUTION"
     },
     {
-        "name": "California Institute of Technology (Caltech) Endowment",
-        "website_link": "https://www.caltech.edu/",
-        "endowment_website_link": "",
-        "investment_report_link": "https://www.caltech.edu/about/financial-information"
-    },
-		 {
-        "name": "University of Southern California Endowment",
-        "website_link": "https://www.usc.edu/",
-        "endowment_website_link": "",
-        "investment_report_link": "https://about.usc.edu/files/2023/12/USC-Annual-Financial-Report-2023.pdf"
-    },
-	    {
-        "name": "Rice University Endowment",
-        "website_link": "https://www.rice.edu/",
-        "endowment_website_link": "https://investments.rice.edu/",
-        "investment_report_link": "https://investments.rice.edu/sites/g/files/bxs556/files/inline-files/Rice-Endowment-Performance-Update-FY2023.pdf"
+      "name": "Vanderbilt University Endowment",
+      "website_link": "https://www.vanderbilt.edu/",
+      "endowment_website_link": "",
+      "investment_report_link": "https://www.vanderbilt.edu/reports/annual-reports/2023-financial-report/",
+      "type": "EDUCATIONAL_INSTITUTION"
     },
     {
-        "name": "Emory University Endowment",
-        "website_link": "https://www.emory.edu/",
-        "endowment_website_link": "",
-        "investment_report_link": "https://annualreport.emory.edu/2023/financial-highlights/#endowment"
+      "name": "University of Chicago Endowment",
+      "website_link": "https://www.uchicago.edu/",
+      "endowment_website_link": "",
+      "investment_report_link": "https://finserv.uchicago.edu/reporting/annualreport/2023/index.shtml#nav-endowment",
+      "type": "EDUCATIONAL_INSTITUTION"
     },
     {
-        "name": "Texas A&M University Endowment",
-        "website_link": "https://www.tamu.edu/",
-        "endowment_website_link": "https://giving.am/About/Annual-Report",
-        "investment_report_link": "https://www.texasamfoundation.com/getattachment/58842b6e-f072-4e90-a423-2f0875e4d9a9/2023-TAMF-Annual-Report.aspx"
+      "name": "Cornell University Endowment",
+      "website_link": "https://www.cornell.edu/",
+      "endowment_website_link": "https://www.dfa.cornell.edu/treasurer/investments",
+      "investment_report_link": "https://www.dfa.cornell.edu/sites/default/files/vol2_2023.pdf",
+      "type": "EDUCATIONAL_INSTITUTION"
     },
     {
-        "name": "University of Virginia Investment Management Company (UVIMCO)",
-        "website_link": "https://www.virginia.edu/",
-        "endowment_website_link": "https://www.uvimco.org/",
-        "investment_report_link": "https://www.uvimco.org/wp-content/uploads/2023-Annual-Report.pdf"
-    },
-       {
-        "name": "Carnegie Mellon University Endowment",
-        "website_link": "https://www.cmu.edu/",
-        "endowment_website_link": "",
-        "investment_report_link": "https://www.cmu.edu/finance/controller-account/annual_report/2023/fr23.pdf"
+      "name": "Johns Hopkins University Endowment",
+      "website_link": "https://www.jhu.edu/",
+      "endowment_website_link": "",
+      "investment_report_link": "https://ar.jhu.edu/financials/#endow",
+      "type": "EDUCATIONAL_INSTITUTION"
     },
     {
-        "name": "University of North Carolina at Chapel Hill Endowment",
-        "website_link": "https://www.unc.edu/",
-        "endowment_website_link": "https://uncmc.unc.edu/",
-        "investment_report_link": "https://uncmc.unc.edu/wp-content/uploads/sites/1115/2023/10/UNC-CH-Endowment-Fund-Report-2022-23-website-version.pdf"
-    },
-     {
-        "name": "Massachusetts Institute of Technology Endowment*",
-        "website_link": "https://web.mit.edu/",
-        "endowment_website_link": "https://mitimco.org/",
-         "investment_report_link": "https://mitimco.org/wp-content/uploads/2023/11/MIT-Endowment-Performance-Press-Release-FY23.pdf"
-
+      "name": "California Institute of Technology (Caltech) Endowment",
+      "website_link": "https://www.caltech.edu/",
+      "endowment_website_link": "",
+      "investment_report_link": "https://www.caltech.edu/about/financial-information",
+      "type": "EDUCATIONAL_INSTITUTION"
     },
     {
-        "name": "Dartmouth College Endowment",
-        "website_link": "https://home.dartmouth.edu/",
-        "endowment_website_link": "https://dartgo.org/endowment",
-        "investment_report_link": "https://dartgo.org/fy23endowment"
+      "name": "University of Southern California Endowment",
+      "website_link": "https://www.usc.edu/",
+      "endowment_website_link": "",
+      "investment_report_link": "https://about.usc.edu/files/2023/12/USC-Annual-Financial-Report-2023.pdf",
+      "type": "EDUCATIONAL_INSTITUTION"
     },
     {
-        "name": "Brown University Endowment",
-        "website_link": "https://www.brown.edu/",
-        "endowment_website_link": "https://www.brown.edu/about/administration/investment-office/",
-        "investment_report_link": "https://www.brown.edu/about/administration/investment-office/performance"
+      "name": "Rice University Endowment",
+      "website_link": "https://www.rice.edu/",
+      "endowment_website_link": "https://investments.rice.edu/",
+      "investment_report_link": "https://investments.rice.edu/sites/g/files/bxs556/files/inline-files/Rice-Endowment-Performance-Update-FY2023.pdf",
+      "type": "EDUCATIONAL_INSTITUTION"
     },
-	{
-        "name": "University of Minnesota Endowment",
-        "website_link": "https://twin-cities.umn.edu/",
-        "endowment_website_link": "https://www.umfoundation.org/",
-        "investment_report_link": "https://www.umfoundation.org/sites/default/files/2024-01/2023-AR_for-print_with-crop-marks_final.pdf"
+    {
+      "name": "Emory University Endowment",
+      "website_link": "https://www.emory.edu/",
+      "endowment_website_link": "",
+      "investment_report_link": "https://annualreport.emory.edu/2023/financial-highlights/#endowment",
+      "type": "EDUCATIONAL_INSTITUTION"
     },
-	{
-        "name": "New York University Endowment",
-        "website_link": "https://www.nyu.edu/",
-        "endowment_website_link": "",
-        "investment_report_link": "https://www.nyu.edu/content/dam/nyu/financialServicesTreasury/documents/investments/Endowment_Performance_Report_2023.pdf"
-
+    {
+      "name": "Texas A&M University Endowment",
+      "website_link": "https://www.tamu.edu/",
+      "endowment_website_link": "https://giving.am/About/Annual-Report",
+      "investment_report_link": "https://www.texasamfoundation.com/getattachment/58842b6e-f072-4e90-a423-2f0875e4d9a9/2023-TAMF-Annual-Report.aspx",
+      "type": "EDUCATIONAL_INSTITUTION"
     },
-	{
-        "name": "The Ohio State University Endowment",
-        "website_link": "https://www.osu.edu/",
-        "endowment_website_link": "",
-        "investment_report_link": "https://busfin.osu.edu/sites/default/files/endowment_report_2023.pdf"
-	}
-]
+    {
+      "name": "University of Virginia Investment Management Company (UVIMCO)",
+      "website_link": "https://www.virginia.edu/",
+      "endowment_website_link": "https://www.uvimco.org/",
+      "investment_report_link": "https://www.uvimco.org/wp-content/uploads/2023-Annual-Report.pdf",
+      "type": "EDUCATIONAL_INSTITUTION"
+    },
+    {
+      "name": "Carnegie Mellon University Endowment",
+      "website_link": "https://www.cmu.edu/",
+      "endowment_website_link": "",
+      "investment_report_link": "https://www.cmu.edu/finance/controller-account/annual_report/2023/fr23.pdf",
+      "type": "EDUCATIONAL_INSTITUTION"
+    },
+    {
+      "name": "University of North Carolina at Chapel Hill Endowment",
+      "website_link": "https://www.unc.edu/",
+      "endowment_website_link": "https://uncmc.unc.edu/",
+      "investment_report_link": "https://uncmc.unc.edu/wp-content/uploads/sites/1115/2023/10/UNC-CH-Endowment-Fund-Report-2022-23-website-version.pdf",
+      "type": "EDUCATIONAL_INSTITUTION"
+    },
+    {
+      "name": "Massachusetts Institute of Technology Endowment*",
+      "website_link": "https://web.mit.edu/",
+      "endowment_website_link": "https://mitimco.org/",
+      "investment_report_link": "https://mitimco.org/wp-content/uploads/2023/11/MIT-Endowment-Performance-Press-Release-FY23.pdf",
+      "type": "EDUCATIONAL_INSTITUTION"
+    },
+    {
+      "name": "Dartmouth College Endowment",
+      "website_link": "https://home.dartmouth.edu/",
+      "endowment_website_link": "https://dartgo.org/endowment",
+      "investment_report_link": "https://dartgo.org/fy23endowment",
+      "type": "EDUCATIONAL_INSTITUTION"
+    },
+    {
+      "name": "Brown University Endowment",
+      "website_link": "https://www.brown.edu/",
+      "endowment_website_link": "https://www.brown.edu/about/administration/investment-office/",
+      "investment_report_link": "https://www.brown.edu/about/administration/investment-office/performance",
+      "type": "EDUCATIONAL_INSTITUTION"
+    },
+    {
+      "name": "University of Minnesota Endowment",
+      "website_link": "https://twin-cities.umn.edu/",
+      "endowment_website_link": "https://www.umfoundation.org/",
+      "investment_report_link": "https://www.umfoundation.org/sites/default/files/2024-01/2023-AR_for-print_with-crop-marks_final.pdf",
+      "type": "EDUCATIONAL_INSTITUTION"
+    },
+    {
+      "name": "New York University Endowment",
+      "website_link": "https://www.nyu.edu/",
+      "endowment_website_link": "",
+      "investment_report_link": "https://www.nyu.edu/content/dam/nyu/financialServicesTreasury/documents/investments/Endowment_Performance_Report_2023.pdf",
+      "type": "EDUCATIONAL_INSTITUTION"
+    },
+    {
+      "name": "The Ohio State University Endowment",
+      "website_link": "https://www.osu.edu/",
+      "endowment_website_link": "",
+      "investment_report_link": "https://busfin.osu.edu/sites/default/files/endowment_report_2023.pdf",
+      "type": "EDUCATIONAL_INSTITUTION"
+    },
+    {
+      "name": "Bill & Melinda Gates Foundation",
+      "website_link": "https://www.gatesfoundation.org/",
+      "annual_report_link": "https://www.gatesfoundation.org/about/financials",
+      "investment_holdings_link": "https://www.gatesfoundation.org/-/media/documents/bmgf-2022-990-pf-return.pdf?la=en&hash=16F69A37A44F57A84F3355A11E0364F64159F47D",
+      "type": "CHARITABLE_FOUNDATION"
+    },
+    {
+      "name": "Wellcome Trust",
+      "website_link": "https://wellcome.org/",
+      "annual_report_link": "https://wellcome.org/reports/annual-report-and-financial-statements-2023",
+      "investment_holdings_link": "https://wellcome.org/sites/default/files/2024-01/wellcome-annual-report-financial-statements-2023.pdf",
+      "type": "CHARITABLE_FOUNDATION"
+    },
+    {
+      "name": "Ford Foundation",
+      "website_link": "https://www.fordfoundation.org/",
+      "annual_report_link": "https://www.fordfoundation.org/the-latest/annual-reports/",
+      "investment_holdings_link": "https://www.fordfoundation.org/media/6835/ford-foundation-form-990-pf-fy22.pdf",
+      "type": "CHARITABLE_FOUNDATION"
+    },
+    {
+      "name": "Lilly Endowment",
+      "website_link": "https://lillyendowment.org/",
+      "annual_report_link": "https://lillyendowment.org/about-us/",
+      "investment_holdings_link": "https://lillyendowment.org/wp-content/uploads/2024/05/2023-Lilly-Endowment-Inc-990PF.pdf",
+      "type": "CHARITABLE_FOUNDATION"
+    },
+    {
+      "name": "The William and Flora Hewlett Foundation",
+      "website_link": "https://hewlett.org/",
+      "annual_report_link": "https://hewlett.org/about/financial-information/",
+      "investment_holdings_link": "https://hewlett.org/wp-content/uploads/2024/05/HewlettFoundation_2023_990PF.pdf",
+      "type": "CHARITABLE_FOUNDATION"
+    },
+    {
+      "name": "Robert Wood Johnson Foundation",
+      "website_link": "https://www.rwjf.org/",
+      "annual_report_link": "https://www.rwjf.org/en/grants/annual-reports.html",
+      "investment_holdings_link": "https://www.rwjf.org/content/dam/farm/reports/2024/rwjf-2023-990-pf",
+      "type": "CHARITABLE_FOUNDATION"
+    },
+    {
+      "name": "Howard Hughes Medical Institute",
+      "website_link": "https://www.hhmi.org/",
+      "annual_report_link": "https://www.hhmi.org/about/annual-report",
+      "investment_holdings_link": "https://www.hhmi.org/sites/default/files/2024-05/HHMI-2023-990PF-Public-Copy.pdf",
+      "type": "CHARITABLE_FOUNDATION"
+    },
+    {
+      "name": "The David and Lucile Packard Foundation",
+      "website_link": "https://www.packard.org/",
+      "annual_report_link": "https://www.packard.org/about-the-foundation/financials/",
+      "investment_holdings_link": "https://www.packard.org/wp-content/uploads/2024/05/2023-Packard-Foundation-Form-990-PF-Public-Disclosure-Copy.pdf",
+      "type": "CHARITABLE_FOUNDATION"
+    },
+    {
+      "name": "W. K. Kellogg Foundation",
+      "website_link": "https://www.wkkf.org/",
+      "annual_report_link": "https://www.wkkf.org/news-and-media/annual-reports/",
+      "investment_holdings_link": "https://www.wkkf.org/media-center/2023-wkkf-990-pf/",
+      "type": "CHARITABLE_FOUNDATION"
+    },
+    {
+      "name": "The Andrew W. Mellon Foundation",
+      "website_link": "https://mellon.org/",
+      "annual_report_link": "https://mellon.org/about/annual-report/",
+      "investment_holdings_link": "https://mellon.org/media/filer_public/98/f0/98f0935f-df8b-4b0b-917d-e57055d19d9b/awmf-2022-990pf.pdf",
+      "type": "CHARITABLE_FOUNDATION"
+    },
+    {
+      "name": "Gordon and Betty Moore Foundation",
+      "website_link": "https://www.moore.org/",
+      "annual_report_link": "https://www.moore.org/about/financials-and-governance-documents",
+      "investment_holdings_link": "https://www.moore.org/docs/default-source/financials/2023-irs-form-990-pf.pdf",
+      "type": "CHARITABLE_FOUNDATION"
+    },
+    {
+      "name": "John D. and Catherine T. MacArthur Foundation",
+      "website_link": "https://www.macfound.org/",
+      "annual_report_link": "https://www.macfound.org/about/annual-reports-and-financial-documents/",
+      "investment_holdings_link": "https://www.macfound.org/media/files/macarthur_2023_990-pf.pdf",
+      "type": "CHARITABLE_FOUNDATION"
+    },
+    {
+      "name": "The Kresge Foundation",
+      "website_link": "https://kresge.org/",
+      "annual_report_link": "https://kresge.org/library-type/annual-reports/",
+      "investment_holdings_link": "https://kresge.org/wp-content/uploads/2024/05/Kresge_2023_990PF_Public_Copy.pdf",
+      "type": "CHARITABLE_FOUNDATION"
+    },
+    {
+      "name": "Open Society Foundations",
+      "website_link": "https://www.opensocietyfoundations.org/",
+      "annual_report_link": "https://www.opensocietyfoundations.org/explainers/open-society-foundations-financial-information",
+      "investment_holdings_link": "https://www.opensocietyfoundations.org/uploads/89c8d978-5574-42a5-b2ba-a9f77833d7f5/osf-2022-form-990-pf.pdf",
+      "type": "CHARITABLE_FOUNDATION"
+    },
+    {
+      "name": "Bloomberg Philanthropies",
+      "website_link": "https://www.bloomberg.org/",
+      "annual_report_link": "https://www.bloomberg.org/annual-report/",
+      "investment_holdings_link": null,
+      "type": "CHARITABLE_FOUNDATION"
+    },
+    {
+      "name": "Stichting INGKA Foundation",
+      "website_link": "https://inter.ikea.com/en/about-us/governance",
+      "annual_report_link": "https://inter.ikea.com/en/about-us/governance",
+      "investment_holdings_link": null,
+      "type": "CHARITABLE_FOUNDATION"
+    },
+    {
+      "name": "The Leona M. and Harry B. Helmsley Charitable Trust",
+      "website_link": "https://helmsleytrust.org/",
+      "annual_report_link": "https://helmsleytrust.org/financial-information/",
+      "investment_holdings_link": "https://helmsleytrust.org/wp-content/uploads/2024/05/2023-Form-990-PF-Helmsley-Charitable-Trust-Public-Disclosure.pdf",
+      "type": "CHARITABLE_FOUNDATION"
+    },
+    {
+      "name": "Margaret A. Cargill Philanthropies",
+      "website_link": "https://www.margaretacargillphilanthropies.org/",
+      "annual_report_link": "https://www.margaretacargillphilanthropies.org/about/financial-information/",
+      "investment_holdings_link": "https://www.margaretacargillphilanthropies.org/app/uploads/2024/05/2023-MACP-990PF.pdf",
+      "type": "CHARITABLE_FOUNDATION"
+    },
+    {
+      "name": "Silicon Valley Community Foundation",
+      "website_link": "https://www.siliconvalleycf.org/",
+      "annual_report_link": "https://www.siliconvalleycf.org/about-us/financials",
+      "investment_holdings_link": "https://www.siliconvalleycf.org/wp-content/uploads/2024/05/2023-Form-990-PF-Public-Disclosure-Copy.pdf",
+      "type": "CHARITABLE_FOUNDATION"
+    },
+    {
+      "name": "Robertson Foundation",
+      "website_link": "https://www.robertsonfoundation.org/",
+      "annual_report_link": null,
+      "investment_holdings_link": null,
+      "type": "CHARITABLE_FOUNDATION"
+    },
+    {
+      "name": "Carnegie Corporation of New York",
+      "website_link": "https://www.carnegie.org/",
+      "annual_report_link": "https://www.carnegie.org/about/about-carnegie-corporation-new-york/annual-reports/",
+      "investment_holdings_link": "https://www.carnegie.org/media/filer_public/8e/49/8e497fb8-2809-491d-9721-5518d5144f4e/ccny_990pf_fy23.pdf",
+      "type": "CHARITABLE_FOUNDATION"
+    },
+    {
+      "name": "The Rockefeller Foundation",
+      "website_link": "https://www.rockefellerfoundation.org/",
+      "annual_report_link": "https://www.rockefellerfoundation.org/about-us/financials/",
+      "investment_holdings_link": "https://www.rockefellerfoundation.org/wp-content/uploads/2024/05/Rockefeller-Foundation-990PF-2023-Public-Disclosure-Copy.pdf",
+      "type": "CHARITABLE_FOUNDATION"
+    },
+    {
+      "name": "Fondation Bettencourt Schueller",
+      "website_link": "https://www.fondationbs.org/",
+      "annual_report_link": "https://www.fondationbs.org/en/foundation/key-figures",
+      "investment_holdings_link": null,
+      "type": "CHARITABLE_FOUNDATION"
+    },
+    {
+      "name": "Oak Foundation",
+      "website_link": "https://oakfnd.org/",
+      "annual_report_link": "https://oakfnd.org/annual-reports/",
+      "investment_holdings_link": null,
+      "type": "CHARITABLE_FOUNDATION"
+    },
+    {
+      "name": "The Duke Endowment",
+      "website_link": "https://dukeendowment.org/",
+      "annual_report_link": "https://dukeendowment.org/our-impact/reports-and-financials",
+      "investment_holdings_link": "https://dukeendowment.org/media/gmtcqlrc/2023-duke-endowment-990-pf.pdf",
+      "type": "CHARITABLE_FOUNDATION"
+    },
+    {
+      "name": "The Annie E. Casey Foundation",
+      "website_link": "https://www.aecf.org/",
+      "annual_report_link": "https://www.aecf.org/about/financials",
+      "investment_holdings_link": "https://www.aecf.org/media/form990pf-2023.pdf",
+      "type": "CHARITABLE_FOUNDATION"
+    },
+    {
+      "name": "The Walton Family Foundation",
+      "website_link": "https://www.waltonfamilyfoundation.org/",
+      "annual_report_link": "https://www.waltonfamilyfoundation.org/about/financials",
+      "investment_holdings_link": "https://www.waltonfamilyfoundation.org/docs/default-source/2023-wff-form-990-pf-public-disclosure-copy_05152024.pdf",
+      "type": "CHARITABLE_FOUNDATION"
+    },
+    {
+      "name": "King Baudouin Foundation",
+      "website_link": "https://www.kbs-frb.be/en",
+      "annual_report_link": "https://www.kbs-frb.be/en/about-us/annual-reports",
+      "investment_holdings_link": null,
+      "type": "CHARITABLE_FOUNDATION"
+    }
+  ]
